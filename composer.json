@@ -1,0 +1,19 @@
+{
+    "name": "rani-dipa/uts-pbwl-ranidipa",
+    "description": "UTS Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "rani-dipa",
+            "email": "rdipa4315@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
